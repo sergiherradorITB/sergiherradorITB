@@ -1,33 +1,10 @@
 - 👋 Hi, I’m @sergiherradorITB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-const Sergi = {
-  pronouns: "he" | "him",
-  code: ["Kotlin", "JavaScript","Android", "HTML", "CSS", "Ruby", "Python", "Java"],
-  tools: ["Jetpack Compose", "Spring", "Styled-Components", "Docker"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  jobs: [
-    {
-      name: "Apfutura",
-      job: "Network Engineer",
-      startDate: "2022/09",
-      finishDate: "2024/06"
-    },
-    {
-      name: "CaixabankTech",
-      job: "Software Engineer",
-      startDate: "2024/09",
-      finishDate: null
-    }
-  ],
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
-}
+[![Linkedin: anmol](https://img.shields.io/badge/-sergiherrador-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergi-herrador-d%C3%ADaz/)]([https://www.linkedin.com/in/anmol098/](https://www.linkedin.com/in/sergi-herrador-d%C3%ADaz/))
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
 const Sergi = {
   pronouns: "he" | "him",
   code: ["Kotlin","Javascript", "Typescript", "HTML", "CSS", "Ruby", "Python", "Java"],
@@ -47,5 +24,5 @@ const Sergi = {
       finishDate: null
     }
   ],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
