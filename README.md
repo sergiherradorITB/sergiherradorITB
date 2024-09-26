@@ -23,6 +23,6 @@ const Sergi = {
       startDate: "2024/09",
       finishDate: null
     }
-  ],
+  ]
 }
 ```
